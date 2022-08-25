@@ -1,11 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>dotnet_playground</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <version>1.0.0</version>
+    <Authors>Tina Heidinger</Authors>
+    <Description>This package returns a random Jack Sparrow quote</Description>
   </PropertyGroup>
 
 </Project>
