@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.cache
+obj/project.assets.json
+obj/dotnet-playground.csproj.nuget.dgspec.json
